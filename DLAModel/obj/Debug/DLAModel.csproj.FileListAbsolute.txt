@@ -1,0 +1,10 @@
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\DLAModel\DLAModel\obj\Debug\DLAModel.csprojAssemblyReference.cache
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\DLAModel\DLAModel\obj\Debug\DLAModel.Form1.resources
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\DLAModel\DLAModel\obj\Debug\DLAModel.Properties.Resources.resources
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\DLAModel\DLAModel\obj\Debug\DLAModel.csproj.GenerateResource.cache
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\DLAModel\DLAModel\obj\Debug\DLAModel.csproj.CoreCompileInputs.cache
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\DLAModel\DLAModel\bin\Debug\DLAModel.exe.config
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\DLAModel\DLAModel\bin\Debug\DLAModel.exe
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\DLAModel\DLAModel\bin\Debug\DLAModel.pdb
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\DLAModel\DLAModel\obj\Debug\DLAModel.exe
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\DLAModel\DLAModel\obj\Debug\DLAModel.pdb
